@@ -1,6 +1,6 @@
 
 # A Tindog website - Under the guidance of Angela Yu
-This is my first responsive website. It is a dummy project that is learned while the training of web development under the mentorship of Angela Yu co-founder of App brewery. 
+This is my first responsive website. It is a dummy project that I have learned while the training of web development under the mentorship of Angela Yu co-founder of App brewery. 
 
 ## Table of contents
 
@@ -19,12 +19,12 @@ This is my first responsive website. It is a dummy project that is learned while
   ### Screenshot
 
   ### Links
-    - Solution URL: (https://github.com/Gauravraj360/beginner-project.git)
-    - Live Site URL: (https://gauravraj360.github.io/beginner-project/)
+    - Solution URL: (https://github.com/Gauravraj360/tindog-web)
+    - Live Site URL: (https://gauravraj360.github.io/tindog-web/)
 
   ## My process
 
-  I started making this project few days back and I constantly give my time on this project and following my mentor and actually something in this project was bit hard to grasp but I took time and practise all the little stuff like positioning with z-index , selectors combination in css and also learned how to refactor our code. I used bootstrap as a framework here that made my things easy as it has library of different types of things few of things i used here is navigation bar and download buttons and also i make grids with bootstrap.
+  I started making this project few days back and I constantly give my time on this project and following my mentor and actually something in this project was bit hard to grasp but I took time and practise all the little stuff like positioning with z-index , selectors combination in css and also learned how to refactor our code. I used bootstrap as a framework here that made my things easy as it has library of different types of things. Few of things I used here is navigation bar and download buttons and also i make grids with bootstrap.
   I have learned many things and will learn a lot things ahead.
 
   ### Built with
@@ -71,7 +71,7 @@ This is my first responsive website. It is a dummy project that is learned while
  - position
    1. static- all html elements are static in their position by default.
    2.  Relative- this allow us to position the element that we select relative to how it would have been positioned when it had been static.( works like a coordinate system in mathematics )
-   3. Absolute- It allow to position a block anywhere relative to it's parents but it affect the position of other element around it.
+   3. Absolute- It allow to position a block anywhere relative to it's parents whose position is relative but it affect the position of other element around it.
    4. Fixed- It will make the position of the element fixed to a place even we scroll down it will be fixed on a particular place on screen. It is really helpful to make navigation bars.
 
  - Use of % ,em, & rem over px
@@ -150,7 +150,7 @@ This is my first responsive website. It is a dummy project that is learned while
       </nav>
       ```
  2. Grid feature of bootstrap
-   In this we can make grid layout just by using the predefin class property of bootstrap i.e raw & col
+   In this we can make grid layout just by using the predefine class property of bootstrap i.e raw & col
 ```html
 <body>
 <div class="row">
